@@ -29,8 +29,12 @@
 > 
 ### 1. Kian's Scenario & Journey Map
 #### Why Kian is using this product
-> Kian biggest concern is gaining more followers on his social media apps. To do so, he decided that his birth name was not eye catching or creative enough, leading him to change his name to Kian. After making this switch about a year
+> Kian biggest concern is gaining more followers on his social media apps. To do so, he decided that his birth name was not eye catching or creative enough, leading him to change his name to Kian. After making this switch about a year ago, Kian has felt reborn. Not only does he resonate more with his new name, but he feels it is easier to let go of past trauma that was attached to his birth name. Kian wants to update his license to say his new name so finally he is not reminded og his birth name any longer. Also, a new trend on Instagram started where celebrities are posting their drivers license photo. Kian badely wants to participate but he needs to adjust his name on it first. 
 #### How Kian is using this product
+> Kian, already aware of how frusterating anything associated with the DMV can be, takes a seat with his most knowledgable tech employee in order to change his name on his license online. After opening the drivers license page of the New York DMV website, he clicks on the blue rectangle on the home page stating "Make Changes to an Existing License." Kian ad his employee begin reading the provided information, leading them to click the blue, underlined hyperlink stating "Change information on your license." Already have gotten this far, Kian is calm and his anger is under control. He begins reading all the options he has and chooses the mail option so he doesn't need to visit the DMV in person. He reads that he has to have a Social Security Number (SSN) on file with the DMV, and he has to complete the hyperlinked application called "Application for Name Change Only on Standard Permit, Driver License or Non-Driver ID Card (PDF)." By mail he finds out heneeds to provide a copy of his new Social Security Card, a copy of his current "Standard" New York State license, and a copy of one or more of these proofs of name change: government issued marriage certificate, government issued court order, amended birth certificate, or his naturalization paper. He also notes that he needs to provide a check or money order for $12.50 payable to 'Commission of Motor Vehicles." Kian gathers all this documentation and mails it to:
+> Department of Motor Vehicles
+55 Hanson Place, 6th Floor
+Brooklyn, NY 11217
 #### Kian's Journey Map
 
 
