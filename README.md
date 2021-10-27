@@ -12,6 +12,9 @@
 <img width="686" alt="Screen Shot 2021-10-26 at 6 21 46 PM" src="https://user-images.githubusercontent.com/91553084/138984048-889e693f-00f7-4bfe-bd98-2efdf4ce2d7a.png">
 
 ### Persona 2: Kian Fisher - Internet Personality and Street Performer 
+
+<img width="904" alt="Screen Shot 2021-10-26 at 6 49 06 PM" src="https://user-images.githubusercontent.com/91553084/138986247-a9cc3d28-1214-484d-a2ed-98df205acda5.png">
+
 #### Kian's Empathy Map
 
 ## Scenarios & Journey Map
