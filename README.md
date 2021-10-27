@@ -29,7 +29,7 @@
 > 
 ### 1. Kian's Scenario & Journey Map
 #### Why Kian is using this product
-
+> Kian biggest concern is gaining more followers on his social media apps. To do so, he decided that his birth name was not eye catching or creative enough, leading him to change his name to Kian. After making this switch about a year
 #### How Kian is using this product
 #### Kian's Journey Map
 
