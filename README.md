@@ -11,7 +11,7 @@
 #### Amy's Empathy Map
 <img width="686" alt="Screen Shot 2021-10-26 at 6 21 46 PM" src="https://user-images.githubusercontent.com/91553084/138984048-889e693f-00f7-4bfe-bd98-2efdf4ce2d7a.png">
 
-### Persona 2: Kian Fisher - Internet Personality and Street Performer 
+### Persona 2: Kian Fisher - Internet Personality
 
 <img width="902" alt="Screen Shot 2021-10-26 at 6 50 12 PM" src="https://user-images.githubusercontent.com/91553084/138986319-c6a2c53b-edb4-4391-8845-46eedb160bbd.png">
 
