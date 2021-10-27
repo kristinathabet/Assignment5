@@ -1,8 +1,12 @@
 # Assignment 5
 ## The Purpose of UX Storytelling
+* The purpose of UX storytelling is to ensure that the UX design team focuses on the users' needs and the value you want to give those users.
+* Storytelling allows designers to better understand what users want in terms of better design.
+* Storytelling also makes sure that all designers are on the same page about who their target users are. 
 
 ## Persona & Empathy Map
 ### Persona 1: Amy Locker- High School Senior
+
 #### Amy's Empathy Map
 ### Persona 2: Nicole Davis - organized, social reader
 #### Nicole's Empathy Map
