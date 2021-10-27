@@ -26,7 +26,9 @@
 #### How Amy is using this product
 > Amy recieves an email from the stylist asking if she will be able to accept the position. Right as Amy gets home from school, she opens her laptop and goes to the New York DMV: Get a License page. She clicks on the blue rectangular button that says "Get a License" and she begins reading the step by step intructions. Using her notes app, she logs all the information relevant to her that she finds on the website. She writes that she needs a Class D license and that she needs to go to the DMV during operating hours to get a learners permit and pass the test. She then continues to read that she has to have supervised driving practice before she can take her actual driving test on the road. Amy then takes note of all the fees this process will take her. She clicks the blue hyperlink that states "estimate my fees," finding out that for her age range, all fees together excluding the supervised driving lessons will be between $92.50 and $102.50. Amy now calls a friend to give her a ride to the DMV so she can begin this process.
 #### Amy's Journey Map
-> 
+<img width="718" alt="Screen Shot 2021-10-26 at 8 15 55 PM" src="https://user-images.githubusercontent.com/91553084/138994093-b9becdba-4c4d-4dd8-b363-e4f905f034b1.png">
+
+
 ### 1. Kian's Scenario & Journey Map
 #### Why Kian is using this product
 > Kian biggest concern is gaining more followers on his social media apps. To do so, he decided that his birth name was not eye catching or creative enough, leading him to change his name to Kian. After making this switch about a year ago, Kian has felt reborn. Not only does he resonate more with his new name, but he feels it is easier to let go of past trauma that was attached to his birth name. Kian wants to update his license to say his new name so finally he is not reminded og his birth name any longer. Also, a new trend on Instagram started where celebrities are posting their drivers license photo. Kian badely wants to participate but he needs to adjust his name on it first. 
