@@ -38,6 +38,7 @@
 55 Hanson Place, 6th Floor
 Brooklyn, NY 11217
 #### Kian's Journey Map
+<img width="715" alt="Screen Shot 2021-10-26 at 8 41 48 PM" src="https://user-images.githubusercontent.com/91553084/138996242-572ad077-44df-475f-9e3a-d7e71a1a98d3.png">
 
 
 
