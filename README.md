@@ -16,6 +16,7 @@
 <img width="902" alt="Screen Shot 2021-10-26 at 6 50 12 PM" src="https://user-images.githubusercontent.com/91553084/138986319-c6a2c53b-edb4-4391-8845-46eedb160bbd.png">
 
 #### Kian's Empathy Map
+<img width="686" alt="Screen Shot 2021-10-26 at 7 02 28 PM" src="https://user-images.githubusercontent.com/91553084/138987336-14dc731a-a851-40ed-9087-5712c6478bc1.png">
 
 ## Scenarios & Journey Map
 
